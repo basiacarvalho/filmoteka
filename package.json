@@ -2,20 +2,20 @@
   "name": "filmoteka",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://github.com/piotrlewoniec/filmoteka",
+  "homepage": "https://github.com/basiacarvalho/filmoteka",
   "scripts": {
     "dev": "parcel --no-cache src/*.html",
     "build": "parcel build src/*.html --public-url /filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/piotrlewoniec/filmoteka.git"
+    "url": "git+https://github.com/basiacarvalho/filmoteka.git"
   },
   "keywords": [],
   "author": "Code Ronins <coderonins@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/piotrlewoniec/filmoteka/issues"
+    "url": "https://github.com/basiacarvalho/filmoteka/issues"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.3",
